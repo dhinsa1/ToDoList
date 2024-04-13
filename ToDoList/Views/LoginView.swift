@@ -23,12 +23,12 @@ struct LoginView: View {
                 
                 // Login Form
                 Form {
-                    TextField("Email Address", text: $viewmodel.email)
+                    TextField("Email Address", text: $viewModel.email)
                         .textFieldStyle(DefaultTextFieldStyle())
                         .autocapitalization(/*@START_MENU_TOKEN@*/.none/*@END_MENU_TOKEN@*/)
                         .autocorrectionDisabled()
                     
-                    SecureField("Password", text: $viewmodel.password)
+                    SecureField("Password", text: $viewModel.password)
                         .textFieldStyle(DefaultTextFieldStyle())
                     
                     TLButton(title: "Log In", background: .blue){
