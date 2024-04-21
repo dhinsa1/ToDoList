@@ -56,6 +56,7 @@
 		AC3F0BC62BC1A4FA00104292 /* ToDoListItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3F0BC52BC1A4FA00104292 /* ToDoListItemViewModel.swift */; };
 		AC3F0BC82BC1ACE700104292 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3F0BC72BC1ACE700104292 /* HeaderView.swift */; };
 		AC3F0BCA2BCAC39A00104292 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3F0BC92BCAC39A00104292 /* TLButton.swift */; };
+		AC3F0BCC2BD5683800104292 /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3F0BCB2BD5683800104292 /* Extentions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		AC3F0BC52BC1A4FA00104292 /* ToDoListItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewModel.swift; sourceTree = "<group>"; };
 		AC3F0BC72BC1ACE700104292 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		AC3F0BC92BCAC39A00104292 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		AC3F0BCB2BD5683800104292 /* Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 				AC3F0B5E2BC0A34D00104292 /* ToDoListApp.swift */,
 				AC3F0B622BC0A34E00104292 /* Assets.xcassets */,
 				AC3F0BA32BC0A50100104292 /* GoogleService-Info.plist */,
+				AC3F0BCB2BD5683800104292 /* Extentions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				AC3F0BBC2BC1A4A000104292 /* ProfileViewModel.swift in Sources */,
 				AC3F0BB42BC1A23900104292 /* ToDoListItemView.swift in Sources */,
 				AC3F0BC62BC1A4FA00104292 /* ToDoListItemViewModel.swift in Sources */,
+				AC3F0BCC2BD5683800104292 /* Extentions.swift in Sources */,
 				AC3F0BC22BC1A4E100104292 /* LoginViewModel.swift in Sources */,
 				AC3F0BC02BC1A4C200104292 /* NewItemViewModel.swift in Sources */,
 				AC3F0BBA2BC1A49100104292 /* ContentViewModel.swift in Sources */,
